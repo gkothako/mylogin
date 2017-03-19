@@ -1,1 +1,3 @@
 This is resource file
+
+updating in the new branch
