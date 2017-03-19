@@ -1,3 +1,6 @@
 This is resource file
 
 updating in the new branch
+
+Changed in the Test Branch
+
